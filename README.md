@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/jb7pfyQ" /></p>
+<p align="center"><img src="https://i.imgur.com/jb7pfyQ.png" /></p>
 
 # mklist
 [![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](PROJECT)
