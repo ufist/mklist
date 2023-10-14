@@ -11,6 +11,7 @@ It is completely free and open-source.
 - Linux System
 - Python 3
 - Figlet
+- tqdm
 
 ## Installation
 
