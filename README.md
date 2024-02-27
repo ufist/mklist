@@ -4,7 +4,6 @@
 [![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](PROJECT)
 
 mklist or MakeList generates wordlists with combinations and numbers of a word, it creates many combinations so it can be used for cracking passwords, usernames, etc.
-It is completely free and open-source.
 
 ## Requirements
 
@@ -27,7 +26,4 @@ When generating a wordlist, the file could be too big based on your preferences,
 
 ## Disclaimer
 
-This tool is not intended for illegal use, it was made for legal penetration testing and education purposes.
-
-When using this tool for penetration testing, make sure you have permission for whatever or whoever you using it on.
-Hacking someone or something without permission could get you a big fine or a prison sentence or both, it is illegal and I advise you to use it for legal purposes, with all that said, enjoy :)
+This tool is not intended for illegal use, it was made for testing in a safe enviroment and educational purposes.
