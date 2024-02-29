@@ -16,8 +16,14 @@ mklist or MakeList generates wordlists with combinations and numbers of a word, 
 
 ```bash
 git clone https://github.com/ufist/mklist.git
+```
+```bash
 cd mklist
+```
+```bash
 pip install -r requirements.txt
+```
+```bash
 python3 mklist.py
 ```
 
