@@ -1,7 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/jb7pfyQ.png" /></p>
 
 # mklist
-[![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](PROJECT)
+[![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](mklist.py)
+[![Static Badge](https://img.shields.io/badge/-Linux-grey?logo=linux)](mklist.py)
 
 mklist or MakeList generates wordlists with combinations and numbers of a word, it creates many combinations so it can be used for cracking passwords, usernames, etc.
 
